@@ -84,37 +84,37 @@ namespace RitoBot
             switch (region)
             {
                 case "EUW":
-                    connection.Connect(username, password, Region.EUW, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.EUW, "4.21");
                     break;
                 case "EUNE":
-                    connection.Connect(username, password, Region.EUN, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.EUN, "4.21");
                     break;
                 case "BR":
-                    connection.Connect(username, password, Region.BR, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.BR, "4.21");
                     break;
                 case "KR":
-                    connection.Connect(username, password, Region.KR, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.KR, "4.21");
                     break;
                 case "OCE":
-                    connection.Connect(username, password, Region.OCE, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.OCE, "4.21");
                     break;
                 case "NA":
-                    connection.Connect(username, password, Region.NA, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.NA, "4.21");
                     break;
                 case "TR":
-                    connection.Connect(username, password, Region.TR, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.TR, "4.21");
                     break;
                 case "TW":
-                    connection.Connect(username, password, Region.TW, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.TW, "4.21");
                     break;
                 case "RU":
-                    connection.Connect(username, password, Region.RU, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.RU, "4.21");
                     break;
                 case "LAN":
-                    connection.Connect(username, password, Region.LAN, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.LAN, "4.21");
                     break;
                 case "LAS":
-                    connection.Connect(username, password, Region.LAS, "4.20.BlazeIt");
+                    connection.Connect(username, password, Region.LAS, "4.21");
                     break;
             }
         }
