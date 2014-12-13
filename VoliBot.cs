@@ -1,4 +1,4 @@
-﻿using LoLLauncher;
+xd﻿using LoLLauncher;
 using LoLLauncher.RiotObjects.Platform.Catalog.Champion;
 using LoLLauncher.RiotObjects.Platform.Clientfacade.Domain;
 using LoLLauncher.RiotObjects.Platform.Game;
