@@ -30,7 +30,7 @@ namespace RitoBot
         public static string championId = "";
         public static string championId2 = "";
         public static int maxLevel = 10;
-        public static bool buyBoost = false;
+        public static bool buyBoost = true;
         public static bool rndSpell = true;
         public static string spell1 = "flash";
         public static string spell2 = "ignite";
@@ -40,10 +40,10 @@ namespace RitoBot
 
         static void Main(string[] args)
         {
-            Console.Title = "RitoBot";
+            Console.Title = "CustomsBOT";
             Console.SetWindowSize(Console.WindowWidth + 5, Console.WindowHeight);
             Console.Write("====================================================================================\n");
-            Console.Write("VoliBot - MultiQueue | V1.9.0 for LoL 4.20.Bl4Z31T by Maufeat\n");
+            Console.Write(" CustomsBOT - RicardoTeixeira | V1 for LoL 4.21\n");
             Console.Write("====================================================================================\n");
             if (!isDonator)
             {
